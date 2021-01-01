@@ -1,4 +1,4 @@
-# Product-Landing-Page-FreCodeCamp
+# Product-Landing-Page-FreeCodeCamp
 The Third project of Responsive Web Design on FreeCodeCamp
 
 
